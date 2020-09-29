@@ -1,0 +1,10 @@
+C:\Users\Andrey\source\repos\lab3_3\lab3_3\obj\Debug\lab3_3.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\lab3_3\lab3_3\obj\Debug\lab3_3.Form1.resources
+C:\Users\Andrey\source\repos\lab3_3\lab3_3\obj\Debug\lab3_3.Properties.Resources.resources
+C:\Users\Andrey\source\repos\lab3_3\lab3_3\obj\Debug\lab3_3.csproj.GenerateResource.cache
+C:\Users\Andrey\source\repos\lab3_3\lab3_3\obj\Debug\lab3_3.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\lab3_3\lab3_3\bin\Debug\lab3_3.exe.config
+C:\Users\Andrey\source\repos\lab3_3\lab3_3\bin\Debug\lab3_3.exe
+C:\Users\Andrey\source\repos\lab3_3\lab3_3\bin\Debug\lab3_3.pdb
+C:\Users\Andrey\source\repos\lab3_3\lab3_3\obj\Debug\lab3_3.exe
+C:\Users\Andrey\source\repos\lab3_3\lab3_3\obj\Debug\lab3_3.pdb
